@@ -9,6 +9,7 @@ end
 
 M.reset_data = function()
 	data = nil
+	print("Cleared scomp test data")
 end
 
 M.run = function()
